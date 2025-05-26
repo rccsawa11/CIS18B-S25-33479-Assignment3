@@ -1,0 +1,7 @@
+Withdrew: $198.0
+Withdrew: $200.0
+Withdrew: $20.0
+Withdrew: $20.0
+Withdrew: $200.0
+Deposited: $100.0
+Withdrew: $100.0
