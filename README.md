@@ -21,13 +21,20 @@ EXTRA FEATURES:
 Sample Console Output: 
 
 Please enter your initial balance: 100
+
 Bank Account Created: #123456
+
 Please enter the amount you want to deposit:
 100
+
 Transaction logged: Deposited: $100.0
+
 Please enter the amount you want to withdraw:
 100
+
 Transaction logged: Withdrew: $100.0
+
 Your current account balance is: $100.0
+
 PS C:\Users\leenz\Documents\GitHub\CIS18B-S25-33479-Assignment3>
 
